@@ -15,4 +15,4 @@ Clique na imagem para abrir o site:
 
 ---
 
-Feito com 💖 por Maria Clara
+Feito por Maria Clara
